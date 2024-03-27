@@ -45,5 +45,5 @@ ansible localhost -m shell -a 'pwd'
 These give me info back:  Date
 and
 my working directory.
-
+[ansible simple cmds](./ansible_simple_cmds.jpg)
 

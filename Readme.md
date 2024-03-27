@@ -12,7 +12,8 @@ Wish me luck!
 I started up an ec2 instance (Amazon Linux 2023 AMI 2023.4.20240319.1 x86_64 HVM kernel-6.1) and found this article:
 https://medium.com/@dassandeep0001/install-ansible-on-ec2-instance-bbfa7e4481ec
 
-```udo yum update -y
+```
+sudo yum update -y
 
 sudo yum install -y epel-release
 sudo yum install -y ansible

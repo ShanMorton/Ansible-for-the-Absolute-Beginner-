@@ -45,5 +45,10 @@ ansible localhost -m shell -a 'pwd'
 These give me info back:  Date
 and
 my working directory.
+
 [ansible simple cmds](./ansible_simple_cmds.jpg)
+
+## Add your servers to you inventory
+
+You'll edit the /etc/ansible/hosts file w/ information of the server you want to manage
 
